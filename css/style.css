@@ -1,0 +1,35 @@
+
+.container{
+    width: 900px;
+    padding: 50% 50%;
+  }
+
+  title{
+    justify-content: center;
+    text-align: center;
+    color: aqua;
+  }
+
+  .btn{
+    margin: 0px 100px;
+    border-color: transparent;
+    color: white;
+    display: block;
+  }
+  
+  .btn a{
+    color: #ffffff;
+    font-family: 'Montserrat';
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .btn:hover {
+    transform: scale(1.1);
+    transition: 500ms;
+    text-decoration: none;
+    border-radius: 20px;
+    -webkit-box-shadow: -1px 9px 18px -7px #000000; 
+    box-shadow: -1px 9px 18px -7px #000000;
+    color: #85b7f0;
+  }

@@ -1,12 +1,3 @@
-// function to convert a string date in the format "YYYY-MM-DD"
-// into a JavaScript Date object.
-function parseDate(dateString) {
-    // Split the date string into its parts
-    const parts = dateString.split('-');
-  
-    // Use the parts to create a Date object
-    return new Date(parts[0], parts[1] - 1, parts[2]);
-  }
 
   // finance moviments and date:Sample 
   const finances = [
@@ -146,6 +137,7 @@ function parseDate(dateString) {
   }
 
 // Using DOM instances to return the result for the use on html
+
   months.innerHTML = totalMonths;
   profit.innerHTML = totalProfit;
   average.innerHTML = averageChange;
@@ -153,6 +145,7 @@ function parseDate(dateString) {
   decrease.innerHTML = ( greatestDecrease.date + "(" + greatestDecrease.profit +")");
 }
   // Print the results on the console
+
   console.log("Total months: " + totalMonths);
   console.log("Total profit: " + totalProfit);
   console.log("Average change: " + averageChange);
