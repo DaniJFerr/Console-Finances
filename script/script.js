@@ -26,7 +26,7 @@
     {date:"Nov-2011", profit: 132003},
     {date:"Dec-2011", profit: 309978},
     {date:"Jan-2012", profit: -75556},
-    {date:"Feb-2012", profit: 117059},
+    {date:"Feb-2012", profit: 1926159},
     {date:"Mar-2012", profit: 252788},
     {date:"Apr-2012", profit: 115151},
     {date:"May-2012", profit: 817256},
@@ -45,7 +45,7 @@
     {date:"Jun-2013", profit: 872480},
     {date:"Jul-2013", profit: 789480},
     {date:"Aug-2013", profit: 999942},
-    {date:"Sep-2013", profit: -119625},
+    {date:"Sep-2013", profit: -2196167},
     {date:"Oct-2013", profit: 268997},
     {date:"Nov-2013", profit: -68798},
     {date:"Dec-2013", profit: 115046},
@@ -89,7 +89,7 @@
     {date:"Feb-2017", profit: 671099}
 ];
 
-  function compute(){ 
+  function compute(){
 
   // Calculate the total number of months in the dataset
   const totalMonths = finances.length;
@@ -98,6 +98,7 @@
   let totalProfit = 0;
   for (const record of finances) {
     totalProfit += record.profit;
+    // totalProfit += finances.length * record.profit;
   }
   
   // Calculate the average profit change over the entire period
@@ -143,16 +144,17 @@
   average.innerHTML = averageChange;
   increase.innerHTML = ( greatestIncrease.date + " (" + greatestIncrease.profit + ")");
   decrease.innerHTML = ( greatestDecrease.date + "(" + greatestDecrease.profit +")");
-}
-  // Print the results on the console
 
+  // Print the results on the console
+  console.log("Financial Analysis");
+  console.log("-------------------------------");
   console.log("Total months: " + totalMonths);
   console.log("Total profit: " + totalProfit);
   console.log("Average change: " + averageChange);
   console.log(greatestIncrease.date + " (" + greatestIncrease.profit + ")");
   console.log(greatestDecrease.date + "(" + greatestDecrease.profit +")");
 
-
+}
   
  
   
