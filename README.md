@@ -1,25 +1,23 @@
-# Finances-2.3
+# Finances 2.3
 
 This project presents a real-world situation in which your newfound JavaScript skills will come in handy. You are tasked with creating code for analyzing the financial records of a company. You have been provided with a financial dataset in the starter/index.js file.
 
 # About
 
-This project is poveidee by Edx and Trollogy bootcamp. For more infaomtaion about the features and langues applied please follow the links bellow:
+ This project is part of bootcamp course provided by EDX and Triillogy. More infomation about the features using in this project on the links bellow: 
 
-[![html](https://user-images.githubusercontent.com/117309987/210461081-1b1a990a-88d7-4db0-ba9c-56bc99303743.png)][1]
-[![css3](https://user-images.githubusercontent.com/117309987/210461080-4aa0b445-55b6-410e-a744-6ebd4bbf07f3.png)][2]
-[![bootstrap](https://user-images.githubusercontent.com/117309987/210461079-a6bedab4-4b47-4aee-94e1-478d506d0ceb.png)][3]
-[![javascript](https://user-images.githubusercontent.com/117309987/210461078-d8d75dec-0181-4416-aa75-0b9a48a35fde.png)][4]
+[![html](https://user-images.githubusercontent.com/117309987/210229486-9f5e01e3-3c35-4238-817a-f65bfac95378.png)][1]
+[![css3](https://user-images.githubusercontent.com/117309987/210229484-4fc2f739-1c58-48f4-ae1c-b9445d6bb90b.png)][2]
+[![bootstrap](https://user-images.githubusercontent.com/117309987/210229483-76a364a5-60ce-4b24-aa64-50e0930bbed0.png)][3]
+[![javascript](https://user-images.githubusercontent.com/117309987/210229488-f2a2488d-dc55-4ab0-b1d8-08326a315393.png)][4]
 
-[1]: https://www.w3schools.com/html/
-[2]: https://www.w3schools.com/css/
-[3]: https://getbootstrap.com/
-[4]: https://www.w3schools.com/js/
 
-# Instructions
-Create a new GitHub repo called Console-Finances. Then, clone it to your computer.
+[1]: https://www.w3schools.com/html
+[2]: https://www.w3schools.com/css
+[3]: https://getbootstrap.com 
+[4]: https://www.w3schools.com/js
 
-Copy the starter files into your local git repository.
+# Intructions
 
 You have been given a dataset composed of arrays with two fields: Date and Profit/Losses.
 
@@ -41,7 +39,6 @@ The greatest decrease in losses (date and amount) over the entire period.
 
 When you open your code in the browser your resulting analysis should look similar to the following:
 
-
-![Screenshot 2023-01-02 115448](https://user-images.githubusercontent.com/117309987/210461633-eac931a8-23a0-4f6a-9c71-383b682f252d.png)
+![Screenshot 2023-01-02 115448](https://user-images.githubusercontent.com/117309987/210228162-faaf28bc-5667-4913-a33f-f4525fd22fe5.png)
 
 
