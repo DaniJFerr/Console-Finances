@@ -42,4 +42,6 @@ The greatest decrease in losses (date and amount) over the entire period.
 When you open your code in the browser your resulting analysis should look similar to the following:
 
 
+![Screenshot 2023-01-02 115448](https://user-images.githubusercontent.com/117309987/210461633-eac931a8-23a0-4f6a-9c71-383b682f252d.png)
+
 
