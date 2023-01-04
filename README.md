@@ -6,10 +6,10 @@ This project presents a real-world situation in which your newfound JavaScript s
 
 This project is poveidee by Edx and Trollogy bootcamp. For more infaomtaion about the features and langues applied please follow the links bellow:
 
-[1]![html](https://user-images.githubusercontent.com/117309987/210461081-1b1a990a-88d7-4db0-ba9c-56bc99303743.png)]
-[2]![css3](https://user-images.githubusercontent.com/117309987/210461080-4aa0b445-55b6-410e-a744-6ebd4bbf07f3.png)]
-[3]![bootstrap](https://user-images.githubusercontent.com/117309987/210461079-a6bedab4-4b47-4aee-94e1-478d506d0ceb.png)[
-[4]![javascript](https://user-images.githubusercontent.com/117309987/210461078-d8d75dec-0181-4416-aa75-0b9a48a35fde.png)[
+[![html](https://user-images.githubusercontent.com/117309987/210461081-1b1a990a-88d7-4db0-ba9c-56bc99303743.png)][1]
+[![css3](https://user-images.githubusercontent.com/117309987/210461080-4aa0b445-55b6-410e-a744-6ebd4bbf07f3.png)][2]
+[![bootstrap](https://user-images.githubusercontent.com/117309987/210461079-a6bedab4-4b47-4aee-94e1-478d506d0ceb.png)][3]
+[![javascript](https://user-images.githubusercontent.com/117309987/210461078-d8d75dec-0181-4416-aa75-0b9a48a35fde.png)][4]
 
 [1]: https://www.w3schools.com/html/
 [2]: https://www.w3schools.com/css/
